@@ -8,7 +8,7 @@ export CXX=$CROSS_COMPILE-g++
 export CPP=$CROSS_COMPILE-cpp
 export CFLAGS="-march=armv7-a -mfloat-abi=softfp -mfpu=neon -O3 -ftree-vectorize"
 export LDFLAGS="-Wl,--fix-cortex-a8"
-export LIBJPEG_TURBO_BASE_DIR=../../../libjpeg-turbo-1.3.1
+export LIBJPEG_TURBO_BASE_DIR=../libjpeg-turbo-1.3.1
 	
 echo "Configuring..."
 
