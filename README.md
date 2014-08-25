@@ -1,6 +1,6 @@
 #Build LibJpeg-Turbo for Android with neon support.
 
-You can achieve approximatly 15ms encode time on Qualcomm 8974 compared to system default YuvImage jpeg comression time, which is approximatly 30ms.  
+You can achieve approximately 15ms 720p video encode time on Qualcomm 8974 compared to system default YuvImage jpeg comression time, which is approximately 30ms.  
 
 The LibJpeg-Turbo version is 1.3.1
 
